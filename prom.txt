@@ -1,0 +1,13 @@
+CHATGPT
+src\academic\model\Course.java:40: error: reached end of file while parsing
+    
+     ^
+
+apa maksud error ini
+
+
+src\academic\driver\Driver1.java:180: error: illegal start of expression
+    private static boolean isDuplicateCourse(Course course, List<Course> courses) {
+    ^
+1 error
+APA MAKSUDNYA
